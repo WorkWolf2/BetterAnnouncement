@@ -1,0 +1,8 @@
+name: BetterAnnouncement
+version: '${project.version}'
+main: me.workwolf.betterannouncement.BetterAnnouncement
+api-version: '1.20'
+commands:
+  annuncio:
+    description: manda un annuncio ogni tot ore
+    usage: </command> <messaggio>

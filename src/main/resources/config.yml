@@ -1,0 +1,26 @@
+#--------------------------------------------------
+#                 Plugin created by
+#                    WorkWolf_2
+#                  For Palladiums
+#--------------------------------------------------
+
+#Groups Settings
+# In this field set permission, time and name of the vip.
+groups:
+  1:
+    name: 'nomevip'
+    permission: 'betterannouncement.1'
+    time: '24' # in hours
+  2:
+    name: 'nomevip'
+    permission: 'betterannouncement.2'
+    time: '12' # in hours
+  3:
+    name: 'nomevip'
+    permission: 'betterannouncement.3'
+    time: '6' # in hours
+
+# Messages
+
+messages:
+  prefix: 'prefix'
